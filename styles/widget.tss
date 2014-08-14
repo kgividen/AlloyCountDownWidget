@@ -1,7 +1,3 @@
-"#view":{
-    fullscreen:'true',
-    backgroundColor:'blue'
-},
 "#label":{
     font: {
         fontWeight: 'bold',
