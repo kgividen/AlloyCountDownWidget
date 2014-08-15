@@ -1,3 +1,6 @@
+"#win":{
+    fullscreen:'true',
+},
 "#label":{
     font: {
         fontWeight: 'bold',
