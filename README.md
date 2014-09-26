@@ -1,10 +1,10 @@
-com.netsmartcompany.rating
+AlloyCountDownWidget
 ==========================
 
 Titanium Alloy Widget to start a countdown and display a message
 
 ## Overview
-This is a widget for the [Appcelerator](http://www.appcelerator.com) [Alloy](http://projects.appcelerator.com/alloy/docs/Alloy-bootstrap/index.html) MVC framework to prompt a user if they want a countdown.
+This is a widget for the [Appcelerator](http://www.appcelerator.com) [Alloy](http://projects.appcelerator.com/alloy/docs/Alloy-bootstrap/index.html) MVC framework to show a user a countdown on top of the current window.
 
 ## Features
 
