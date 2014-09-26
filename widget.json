@@ -1,6 +1,6 @@
 {
-    "id": "com.netsmart.countdown",
-    "name": "com.netsmart.countdown",
+    "id": "AlloyCountDownWidget",
+    "name": "AlloyCountDownWidget",
     "description" : "Countdown Widget for Titanium Alloy",
     "author": "Kent Gividen",
     "version": "0.1",
